@@ -1,0 +1,13 @@
+C:\Users\stipe\Desktop\Jessica\WB3\bin\Debug\WB3.exe.config
+C:\Users\stipe\Desktop\Jessica\WB3\bin\Debug\WB3.exe
+C:\Users\stipe\Desktop\Jessica\WB3\bin\Debug\WB3.pdb
+C:\Users\stipe\Desktop\Jessica\WB3\obj\Debug\WB3.csproj.AssemblyReference.cache
+C:\Users\stipe\Desktop\Jessica\WB3\obj\Debug\WB3.csproj.SuggestedBindingRedirects.cache
+C:\Users\stipe\Desktop\Jessica\WB3\obj\Debug\WB3.Form1.resources
+C:\Users\stipe\Desktop\Jessica\WB3\obj\Debug\WB3.Properties.Resources.resources
+C:\Users\stipe\Desktop\Jessica\WB3\obj\Debug\WB3.csproj.GenerateResource.cache
+C:\Users\stipe\Desktop\Jessica\WB3\obj\Debug\WB3.csproj.CoreCompileInputs.cache
+C:\Users\stipe\Desktop\Jessica\WB3\obj\Debug\WB3.exe
+C:\Users\stipe\Desktop\Jessica\WB3\obj\Debug\WB3.pdb
+C:\Users\stipe\Desktop\Jessica\WB3\obj\Debug\WB3.Form2.resources
+C:\Users\stipe\Desktop\Jessica\WB3\obj\Debug\WB3.Form3.resources
